@@ -47,6 +47,22 @@ button:hover{
     border: 1px solid white ;
 }
 .banner{
-    background-color: rgb(56, 56, 120)
-
+    margin-top: 15px;
+    padding: 30px 15px;
+    background-color: rgb(187, 185, 185);
+    border-radius: 25px;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.name_icon h3{
+    color: black;
+    font-size: 50px;
+    
+}
+.infos {
+    font-size: 25px;
+    
 }
